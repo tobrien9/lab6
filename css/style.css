@@ -1,1 +1,23 @@
+td, th {
+	border: 10px solid;
+	text-align: center;
+	padding: 30px;
+  }
+    body {
+  background-color: orange;
+}
 
+h1 {
+  background-color: green;
+  text-decoration-line: underline;
+  text-decoration-color: red;  
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align:center
+}
+img {
+width="60" height="40"
+}
+table {
+  width: 100%;
+}
